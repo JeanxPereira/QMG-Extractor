@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Img2Png</string>
+    <string name="pickApk">Pick APK</string>
+    <string name="convert">Extract and Convert</string>
+    <string name="areyousure">Are you sure?</string>
+    <string name="outputFolder">Output Folder: sdcard/Img2Png</string>
+    <string name="about_copyright">© XDA 2017. All rights reserved</string>
+    <string name="about_version">Version 1.1</string>
+    <string name="appInfo">Img2Png is a tool to extract and convert samsung image resources to png format for easy theming. It relies on the built-in TouchWiz Rom image loader to read the samsung image resources and save them as png images</string>
+    <string name="support">Supported:</string>
+    <string name="supported_res_0x7f040009">Some formats need a device that support new samsung image resources with android 5.1+ or higher</string>
+    <string name="supported_res_0x7f04000a">QMG, ASTC, WEBP, PIO, WBP, OPTIPNG, QUANTPNG, PKM, ATC, PNG_OPTI, PNG_QUANT, QIO</string>
+</resources>

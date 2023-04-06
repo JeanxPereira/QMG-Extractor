@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: E9u7PMkfV03GwmEKPXdNWfqymE0ORUYti3nUuME8SA8=
+
+Name: resources.arsc
+SHA-256-Digest: awPZ0uV9xbHsIzXZmGr1HXUtkzR3vkMmHBh0JIw4eik=
+
+Name: res/layout/about_activity_inner.xml
+SHA-256-Digest: 1Hzos45J5r9WVhGo1vVdGCQ4UmUP9E1sq66zu9YMOY8=
+
+Name: classes.dex
+SHA-256-Digest: NM3IdCXXq/GMRK2gEaaAPnr86GYGkuwlGZ/NGn6wDsw=
+
+Name: res/drawable/ic_launcher.png
+SHA-256-Digest: tbFd0rWKjaAAh1GazgIQxB2Bs1f1JpLVK6rNSVDWLlg=
+
+Name: res/layout/about_activity.xml
+SHA-256-Digest: l++7mlAhYeQlqrNVzEXkRYMcbGDqqP2qmOtUuURnRBQ=
+
